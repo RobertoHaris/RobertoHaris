@@ -1,3 +1,4 @@
+<img align="center" src="https://ntmaker.gfto.ru/animtilestexten//data/fire/7ae4fb0e510b78c9960ded68b345eee0/fire.gif" alt="header">
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">A Passionate Developer</h3>
 
